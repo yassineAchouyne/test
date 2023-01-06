@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-master 2
-=======
-branch1
->>>>>>> 9b1ebdf74247834d4382e204aadeaab52d00513d
+
